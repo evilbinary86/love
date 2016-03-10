@@ -7,5 +7,5 @@
 
 临下班时, 想到了之前看到的一个用JS做的PPT, 于是百度找到了[reveal.js](https://github.com/hakimel/reveal.js)这个JS库. 于是想到在GitHub上搭建一个静态的PPT页面, 让女友开心一下.
 
-> 页面使用了reveal.js插件库.
+> 页面使用了reveal.js插件库.<br>
 > [reveal.js官网](https://github.com/hakimel/reveal.js)
